@@ -1,1 +1,2 @@
-# World-Suicide-Rate
+# World Suicide Rate
+This project investigates the relationship between suicide rates and socioeconomic indicators (Unemployment Rate and Human Development Index) in countries with the 3 highest and 3 lowest suicide rates in the world. A correlation analysis will be conducted to understand the relationship between suicide rate and indicators. The Human Development Index is of particular interest as it measures three dimensions of human development: health, education, and standard of living.
